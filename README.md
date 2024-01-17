@@ -27,7 +27,7 @@
 `pinned.json`
 ```json
 {
-    ".": ["0", "5", "init", "6", ...]
+    ".": ["0", "5", "init", "6"]
 }
 ```
 The `"."` parameter should contain value as a list of strings. The order of pinned slides is the same as the order of the list.
