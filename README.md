@@ -5,7 +5,7 @@
  - init.json
 
 # Slides format
-`/{id}.json`
+`slides/{id}.json`
 ```json
 {
     "slide": {
