@@ -4,7 +4,7 @@ rm README.md;
 mv -v slides/* .
 
 # {name}.json (pretty) -> {name} (minified)
-sudo apt install jq
+apt install jq
 for a in *.json
     do cat "$a" | jq -c > "${a%.json}"
     rm "$a"
