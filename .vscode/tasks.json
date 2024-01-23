@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "preview",
+            "type": "shell",
+            "command": "rm -r preview; mkdir preview; cp -R slides/. preview/slides/; cp pinned.json preview/pinned.json; cp _headers preview/_headers; cd preview; ./../build.sh; wrangler pages dev .",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            },
+            "runOptions": {
+                "runOn": "folderOpen",
+            }
+        }
+    ]
+}
