@@ -1,10 +1,12 @@
-# Numbering format
+# Slides
+
+## Numbering format
  - 0.json
  - 1.json
  - ...
  - init.json
 
-# Slides format
+## Slides format
 `slides/{id}.json`
 ```json
 {
@@ -23,7 +25,7 @@
  - `shadow-color` is an optional parameter (leave blank string as value if unused).
  - `next` parameter should have next slide's id as string value. For example, if the current slide is `3.json`, it's `next` key should have value as `"2"`.
 
-# pinned slides
+## Pinned slides
 `pinned.json`
 ```json
 {
@@ -31,3 +33,17 @@
 }
 ```
 The `"."` parameter should contain value as a list of strings. The order of pinned slides is the same as the order of the list.
+
+# Search
+
+## Format
+`search.json`
+```json
+[
+    {
+        "title": "Test",
+        "description": "description here",
+        "url": "//joth.in"
+    }
+]
+```

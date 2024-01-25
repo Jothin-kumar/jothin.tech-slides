@@ -4,7 +4,7 @@
         {
             "label": "preview",
             "type": "shell",
-            "command": "rm -r preview; mkdir preview; cp -R slides/. preview/slides/; cp pinned.json preview/pinned.json; cp _headers preview/_headers; cp minify.py preview/minify.py; cd preview; ./../build.sh; wrangler pages dev .",
+            "command": "rm -r preview; mkdir preview; cp -R slides/. preview/slides/; cp pinned.json preview/pinned.json; cp search.json preview/search.json; cp _headers preview/_headers; cp minify.py preview/minify.py; cd preview; ./../build.sh; wrangler pages dev .",
             "presentation": {
                 "reveal": "always",
                 "panel": "new"
