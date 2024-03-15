@@ -22,7 +22,7 @@
     "next": "<next slide>"
 }
 ```
- - `shadow-color` is an optional parameter (leave blank string as value if unused).
+ - `shadow-color` and `border-color` are optional parameters (leave blank string as value if unused).
  - `next` parameter should have next slide's id as string value. For example, if the current slide is `3.json`, it's `next` key should have value as `"2"`.
 
 ## Pinned slides
