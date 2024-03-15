@@ -1,11 +1,11 @@
 {
     "slide": {
-        "border-color": "#29020a",
+        "border-color": "",
         "shadow-color": "",
-        "name": "Sample 1 (0.json)",
-        "image-src": "/assets/images/test-img-2.jpg",
-        "url": "https://joth.in",
-        "GitHub-url": "https://github.com/Jothin-Kumar/Geometry-app",
-        "description": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi non incidunt ipsa ex reiciendis, consectetur assumenda odio aperiam soluta dolore dolorem adipisci vel voluptatibus, blanditiis modi commodi deleniti id voluptates!</p>"
+        "name": "Time Widget (archived)",
+        "image-src": "https://github.com/Jothin-kumar/time-widget/blob/main/screenshots/2.png?raw=true",
+        "url": "https://jothin-kumar.github.io/time-widget/",
+        "GitHub-url": "https://github.com/Jothin-kumar/time-widget/",
+        "description": "<p> A GUI widget for Linux and Windows to show current time in different timezones. </p>"
     }
 }
