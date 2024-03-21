@@ -1,4 +1,21 @@
 [
+
+    {
+        "title": "Connect with Jothin Kumar",
+        "description": "View Jothin Kumar's profiles on GitHub, Discord, InstaGram, X, YouTube, Showwcase, DEV Community, Hashnode and DevDojo",
+        "url": "https://joth.in/connect"
+    },
+    {
+        "title": "GitHub Profile - Jothin Kumar",
+        "description": "@Jothin-kumar",
+        "url": "https://joth.in/gh"
+    },
+    {
+        "title": "Discord - Jothin kumar",
+        "description": "@jothinkumar",
+        "url": "https://joth.in/dc"
+    },
+
     {
         "title": "lines of code (archived)",
         "description": "Lines of code is an app to calculate the number of commits, addition and deletion by a user in git.",
@@ -14,4 +31,5 @@
         "description": "A GUI widget for Linux and Windows to show current time in different timezones.",
         "url": "https://jothin-kumar.github.io/time-widget/"
     }
+    
 ]
