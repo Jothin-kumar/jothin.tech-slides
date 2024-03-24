@@ -2,11 +2,11 @@
     "slide": {
         "border-color": "",
         "shadow-color": "",
-        "name": "lines of code (archived)",
-        "image-src": "https://cdn.jothin.tech/img/lines-of-code.webp",
-        "url": "https://jothin-kumar.github.io/lines-of-code/",
-        "GitHub-url": "https://github.com/Jothin-kumar/lines-of-code/",
-        "description": "<p>Lines of code is an app to calculate the number of commits, addition and deletion by a user in git.</p>"
+        "name": "Flames calculator",
+        "image-src": "https://github.com/Jothin-kumar/flames/raw/main/.png",
+        "url": "https://sa.jothin.tech/flames",
+        "GitHub-url": "https://github.com/Jothin-kumar/flames/",
+        "description": "<p>An interactive Flames Calculator to calculate FLAMES between yourself and your crush.</p>"
     },
-    "next": "1"
+    "next": "2"
 }
