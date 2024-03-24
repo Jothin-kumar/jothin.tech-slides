@@ -6,6 +6,8 @@
  - ...
  - init.json
 
+To create a new slide, rename existing `init.json` to `(the previous number + 1).json`. (In this case, `2.json`). Then, add the new slide with `init.json` as it's name.
+
 ## Slides format
 `slides/{id}.json`
 ```json
