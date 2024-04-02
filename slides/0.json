@@ -3,7 +3,7 @@
         "border-color": "",
         "shadow-color": "",
         "name": "Time Widget (archived)",
-        "image-src": "https://github.com/Jothin-kumar/time-widget/blob/main/screenshots/2.png?raw=true",
+        "image-src": "https://cdn.jothin.tech/img/time-widget.png",
         "url": "https://jothin-kumar.github.io/time-widget/",
         "GitHub-url": "https://github.com/Jothin-kumar/time-widget/",
         "description": "<p>A GUI widget for Linux and Windows to show current time in different timezones</p>"
