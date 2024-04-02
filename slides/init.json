@@ -1,7 +1,7 @@
 {
     "slide": {
         "border-color": "white",
-        "shadow-color": "white",
+        "shadow-color": "rgba(255, 255, 255, .5)",
         "name": "A-Maze",
         "image-src": "https://cdn.jothin.tech/img/a-maze.png",
         "url": "https://a-maze.jothin.tech",
