@@ -35,5 +35,10 @@
         "title": "Flames Calculator",
         "description": "An interactive Flames Calculator to calculate FLAMES between yourself and your crush",
         "url": "https://sa.jothin.tech/flames/"
+    },
+    {
+        "title": "A-Maze",
+        "description": "An interactive Maze Game on a 49x49 grid. Play maze game online. Printable maze",
+        "url": "https://a-maze.jothin.tech/"
     }
 ]
