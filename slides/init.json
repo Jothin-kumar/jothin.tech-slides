@@ -1,12 +1,12 @@
 {
     "slide": {
-        "border-color": "",
-        "shadow-color": "",
-        "name": "Flames calculator",
-        "image-src": "https://cdn.jothin.tech/img/flames.png",
-        "url": "https://sa.jothin.tech/flames",
-        "GitHub-url": "https://github.com/Jothin-kumar/flames/",
-        "description": "<p>An interactive Flames Calculator to calculate FLAMES between yourself and your crush</p>"
+        "border-color": "white",
+        "shadow-color": "white",
+        "name": "A-Maze",
+        "image-src": "https://cdn.jothin.tech/img/a-maze.png",
+        "url": "https://a-maze.jothin.tech",
+        "GitHub-url": "https://github.com/Jothin-kumar/a-maze/",
+        "description": "<p>An interactive Maze Game on a 49x49 grid.</p>"
     },
-    "next": "2"
+    "next": "3"
 }
