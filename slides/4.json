@@ -6,7 +6,7 @@
         "image-src": "https://cdn.jothin.tech/img/a-maze.png",
         "url": "https://a-maze.jothin.tech",
         "GitHub-url": "https://github.com/Jothin-kumar/a-maze/",
-        "description": "<p>An interactive Maze Game on a 49x49 grid. Generate, Play, Share and Print mazes online for free</p><h3>How to Play:</h3><ul><li>Spot the green dot</li><li>Navigate from there, to the red dot</li><li>Upon reaching the red dot, the game ends, and a score is calculated and displayed on the basis of accuracy</li></ul><h3>Features:</h3><ul><li>Generate a random maze or choose one from the collection (https://mazes.jothin.tech/)</li><li>Share maze</li><li>Playable on devices with physical keyboards or touchscreen devices</li><li>Mazes are printable</li><li>Can't figure out the right path? click Reveal Answer and watch the maze solve itself</li></ul>"
+        "description": "<p>An interactive Maze Game on a 49x49 grid. Generate, Play, Share and Print mazes online for free</p><h3>How to Play:</h3><ul><li>Spot the green dot</li><li>Navigate from there, to the red dot</li><li>Upon reaching the red dot, the game ends, and a score is calculated and displayed on the basis of accuracy</li></ul><h3>Features:</h3><ul><li>Generate a random maze or choose one from <a href='https://mazes.jothin.tech/'>the collection</a></li><li>Share maze</li><li>Playable on devices with physical keyboards or touchscreen devices</li><li>Mazes are printable</li><li>Can't figure out the right path? click Reveal Answer and watch the maze solve itself</li></ul>"
     },
     "next": "3"
 }
