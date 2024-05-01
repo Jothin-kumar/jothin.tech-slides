@@ -4,8 +4,8 @@
         "shadow-color": "",
         "name": "lines of code (archived)",
         "image-src": "https://cdn.jothin.tech/img/lines-of-code.webp",
-        "url": "https://jothin-kumar.github.io/lines-of-code/",
-        "GitHub-url": "https://github.com/Jothin-kumar/lines-of-code/",
+        "url": "https://jothin-kumar.github.io/lines-of-code",
+        "GitHub-url": "https://github.com/Jothin-kumar/lines-of-code",
         "description": "<p>Lines of code is an app to calculate the number of commits, addition and deletion by a user in git</p>"
     },
     "next": "1"

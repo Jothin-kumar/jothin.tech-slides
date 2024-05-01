@@ -4,8 +4,8 @@
         "shadow-color": "",
         "name": "Timer",
         "image-src": "https://cdn.jothin.tech/img/timer.png",
-        "url": "https://sa.jothin.tech/timer/",
-        "GitHub-url": "https://github.com/Jothin-kumar/timer/",
+        "url": "https://sa.jothin.tech/timer",
+        "GitHub-url": "https://github.com/Jothin-kumar/timer",
         "description": "<p>A simple timer that runs for 1 hour, 1 minute and 9 seconds</p>"
     },
     "next": "0"

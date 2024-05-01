@@ -6,7 +6,7 @@
  - ...
  - init.json
 
-To create a new slide, rename existing `init.json` to `(the previous number + 1).json`. (In this case, `2.json`). Then, add the new slide with `init.json` as it's name.
+To create a new slide, rename existing `init.json` to `(the previous number + 1).json`. (In this case, `2.json`). Then, add the new slide with `init.json` as it's name
 
 ## Slides format
 `slides/{id}.json`
@@ -24,8 +24,9 @@ To create a new slide, rename existing `init.json` to `(the previous number + 1)
     "next": "<next slide>"
 }
 ```
- - `shadow-color` and `border-color` are optional parameters (leave blank string as value if unused).
- - `next` parameter should have next slide's id as string value. For example, if the current slide is `3.json`, it's `next` key should have value as `"2"`.
+ - `shadow-color` and `border-color` are optional parameters (leave blank string as value if unused)
+ - `next` parameter should have next slide's id as string value. For example, if the current slide is `3.json`, it's `next` key should have value as `"2"`
+ - While entering URLs, avoid the trailing slash
 
 ## Pinned slides
 `pinned.json`
@@ -34,7 +35,7 @@ To create a new slide, rename existing `init.json` to `(the previous number + 1)
     ".": ["0", "5", "init", "6"]
 }
 ```
-The `"."` parameter should contain value as a list of strings. The order of pinned slides is the same as the order of the list.
+The `"."` parameter should contain value as a list of strings. The order of pinned slides is the same as the order of the list
 
 # Search
 
