@@ -2,11 +2,11 @@
     "slide": {
         "border-color": "",
         "shadow-color": "",
-        "name": "Maze Collections",
-        "image-src": "https://cdn.jothin.tech/img/maze-collections.png",
-        "url": "https://mazes.jothin.tech",
-        "GitHub-url": "https://github.com/Jothin-kumar/maze-collections",
-        "description": "<p>Maze collection for <a href='https://a-maze.jothin.tech' target='_blank'>A-Maze</a>. Play online or print for free</p>"
+        "name": "Base Converter",
+        "image-src": "https://cdn.jothin.tech/img/base-converter.png",
+        "url": "https://sa.jothin.tech/base-converter",
+        "GitHub-url": "https://github.com/Jothin-kumar/base-converter",
+        "description": "<p>Convert numbers from one base to another. Available bases include Binary, Decimal, Octal, Hexadecimal... (2 to 17)</p>"
     },
-    "next": "4"
+    "next": "5"
 }

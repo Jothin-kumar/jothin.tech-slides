@@ -1,0 +1,12 @@
+{
+    "slide": {
+        "border-color": "",
+        "shadow-color": "",
+        "name": "Maze Collections",
+        "image-src": "https://cdn.jothin.tech/img/maze-collections.png",
+        "url": "https://mazes.jothin.tech",
+        "GitHub-url": "https://github.com/Jothin-kumar/maze-collections",
+        "description": "<p>Maze collection for <a href='https://a-maze.jothin.tech' target='_blank'>A-Maze</a>. Play online or print for free</p>"
+    },
+    "next": "4"
+}
