@@ -45,5 +45,10 @@
         "title": "Maze collection",
         "description": "Maze collection is a collection of mazes generated using A-Maze. Play, Share and Print mazes online for free",
         "url": "https://mazes.jothin.tech/"
+    },
+    {
+        "title": "Base Converter",
+        "description": "Convert numbers from one base to another. Available bases include Binary, Decimal, Octal, Hexadecimal... (2 to 17)",
+        "url": "https://sa.jothin.tech/base-converter"
     }
 ]
