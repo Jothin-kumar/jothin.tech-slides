@@ -48,7 +48,7 @@
     },
     {
         "title": "Base Converter",
-        "description": "Convert numbers from one base to another. Available bases include Binary, Decimal, Octal, Hexadecimal... (2 to 17)",
+        "description": "Convert numbers from one base to another. Available bases include Binary, Decimal, Octal, Hexadecimal... Base 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17",
         "url": "https://sa.jothin.tech/base-converter"
     }
 ]
