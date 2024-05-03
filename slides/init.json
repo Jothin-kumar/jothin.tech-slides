@@ -2,11 +2,11 @@
     "slide": {
         "border-color": "",
         "shadow-color": "",
-        "name": "Base Converter",
-        "image-src": "https://cdn.jothin.tech/img/base-converter.png",
-        "url": "https://sa.jothin.tech/base-converter",
-        "GitHub-url": "https://github.com/Jothin-kumar/base-converter",
-        "description": "<p>Convert numbers from one base to another. Available bases include Binary, Decimal, Octal, Hexadecimal... (2 to 17)</p>"
+        "name": "Flip A Coin",
+        "image-src": "https://cdn.jothin.tech/img/flip-a-coin.png",
+        "url": "https://sa.jothin.tech/flip-a-coin",
+        "GitHub-url": "https://github.com/Jothin-kumar/flip-a-coin",
+        "description": "<p>Flip A Coin Animation with HTML, CSS and JS. Randomly get Head or Tail. Click the coin to flip it</p>"
     },
-    "next": "5"
+    "next": "6"
 }
