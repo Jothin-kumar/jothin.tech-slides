@@ -1,3 +1,4 @@
+**⚠️ Archived because s.jothin.tech is no longer used.** For more details, check the [May 2025 Update](https://github.com/Jothin-kumar/jothin.tech-homepage/pull/2)
 # Slides
 
 ## Numbering format
